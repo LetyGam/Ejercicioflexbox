@@ -4,11 +4,11 @@ Este fue un pequeño ejercicio para ir conociendo un poco de Flexbox
 
 ### Características 
 
-*Diseño Responsive: Adaptable a diferentes tamaños de pantalla, para una experiencia de usuario óptima en dispositivos móviles y de escritorios.
+**Diseño Responsive:** Adaptable a diferentes tamaños de pantalla, para una experiencia de usuario óptima en dispositivos móviles y de escritorios.
 
-*Intefaz de Usuario Intuitiva: navegación fácil y accesible.
+**Intefaz de Usuario Intuitiva:** navegación fácil y accesible.
 
-*Interacciones Dinámicas: Efectos visuales para elementos interactivos como botones y un enlace que te lleva a una lista de musica relajante en Spotify.
+**Interacciones Dinámicas:** Efectos visuales para elementos interactivos como botones y un enlace que te lleva a una lista de musica relajante en Spotify.
 
 ### Tecnologías utilizadas
 
